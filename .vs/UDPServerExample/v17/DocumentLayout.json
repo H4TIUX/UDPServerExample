@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDPServerExample\\UDPServerExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D28CC1-5043-40D5-8631-5FAB66DAB321}|UDPServerExample\\UDPServerExample.vcxproj|D:\\UDPServerExample\\UDPServerExample\\UDPServerExample\\UDPServerExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61D28CC1-5043-40D5-8631-5FAB66DAB321}|UDPServerExample\\UDPServerExample.vcxproj|solutionrelative:UDPServerExample\\UDPServerExample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UDPServerExample.cpp",
+              "DocumentMoniker": "D:\\UDPServerExample\\UDPServerExample\\UDPServerExample\\UDPServerExample.cpp",
+              "RelativeDocumentMoniker": "UDPServerExample\\UDPServerExample.cpp",
+              "ToolTip": "D:\\UDPServerExample\\UDPServerExample\\UDPServerExample\\UDPServerExample.cpp",
+              "RelativeToolTip": "UDPServerExample\\UDPServerExample.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T13:11:47.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

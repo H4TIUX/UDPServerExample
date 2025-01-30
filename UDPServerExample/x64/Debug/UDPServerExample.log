@@ -1,0 +1,7 @@
+﻿  UDPServerExample.cpp
+D:\UDPServerExample\UDPServerExample\UDPServerExample\UDPServerExample.cpp(21,35): warning C4474: 'printf' : too many arguments passed for format string
+      D:\UDPServerExample\UDPServerExample\UDPServerExample\UDPServerExample.cpp(21,35):
+      placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+  
+D:\UDPServerExample\UDPServerExample\UDPServerExample\UDPServerExample.cpp(18,31): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\UDPServerExample\UDPServerExample\UDPServerExample\UDPServerExample.cpp(34,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
