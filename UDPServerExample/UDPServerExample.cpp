@@ -37,6 +37,9 @@ int InitializeServer(const char* ip, u_short port) {
 		printf("Sent %d bytes to client\n", sentBytes);
 	}
 
+	closesocket(s);
+	WSACleanup();
+
 	return 0; 
 }
 
